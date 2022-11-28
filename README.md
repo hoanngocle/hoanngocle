@@ -2,7 +2,7 @@
 <p align="center">
 <img alt="GIF" src="https://raw.githubusercontent.com/hoanngocle/hoanngocle/main/images/code.gif" height="280" />
 <p/>
-<p align="center">I'm a Senior Developer<br/>I specialize Web-Development and AWS<br/>I also love Automation Testing and learning new thing.<p/>
+<p align="center">I'm a Senior Developer<br/>I specialize Web-Development and AWS<br/>“The way we do one thing is the way we do everything.” — Iyanla Vanzant<p/>
 <p align="center">
   <a href="#">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
