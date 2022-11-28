@@ -3,6 +3,16 @@
 <img alt="GIF" src="https://raw.githubusercontent.com/hoanngocle/hoanngocle/main/images/code.gif" height="280" />
 <p/>
 <p align="center">I'm a Senior Developer<br/>I specialize Web-Development and AWS<br/>I also love Automation Testing and learning new thing.<p/>
+<p align="center">
+  <a href="#">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+  <a href="#">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://github.com/hoanngocle?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/hoanngocle?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/hoanngocle?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/hoanngocle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
 ------
 ### Some things about me :
