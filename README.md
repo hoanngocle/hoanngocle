@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hoanngocle">
-    <img src="https://raw.githubusercontent.com/hoanngocle/hoanngocle/main/images/hoanngocle.png" alt="Hoan Ngoc Le" height="50"/></a>
+    <img src="https://raw.githubusercontent.com/hoanngocle/hoanngocle/main/images/hoanngocle-readme.png" alt="Hoan Ngoc Le" height="26"/></a>
 </p>
 
 <p align="center">
