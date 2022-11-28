@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/hoanngocle">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+    <img src="https://raw.githubusercontent.com/hoanngocle/hoanngocle/main/images/hoanngocle.png" alt="Hoan Ngoc Le" height="50"/></a>
 </p>
 
 <p align="center">
