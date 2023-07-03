@@ -59,7 +59,7 @@
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hoanngocle&theme=rogue" alt="hoanngocle"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanngocle&theme=rogue" alt="hoanngocle"  />
 </p>
 
 ------
