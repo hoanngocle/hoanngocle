@@ -64,7 +64,7 @@
 
 ------
 ### My Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=hoanngocle&theme=gruvbox"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hoanngocle&theme=gruvbox&rank=-C"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanngocle&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hoanngocle" />
 
 ![](https://komarev.com/ghpvc/?username=hoanngocle&label=Profile%20Views&color=0e75b6&style=flat)
