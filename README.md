@@ -70,7 +70,7 @@
 ![](https://komarev.com/ghpvc/?username=hoanngocle&label=Profile%20Views&color=0e75b6&style=flat)
 
 <div align="center">
-  <img src=""/>
+  <img src="https://github.com/hoanngocle/hoanngocle/blob/main/images/summer-is-coming.svg"/>
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </div>
