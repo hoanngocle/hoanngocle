@@ -54,7 +54,7 @@
 ### Github Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanngocle&theme=algolia" alt="hoanngocle"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanngocle&count_private=true&show_icons=true&theme=dracula" alt="hoanngocle" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanngocle&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true&hide=contribs" alt="hoanngocle" />
 </p>
 
 ### GitHub Activity
@@ -64,13 +64,13 @@
 
 ------
 ### My Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=hoanngocle&theme=gruvbox&rank=-C"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hoanngocle&theme=gruvbox&rank=-C&rank=-?"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanngocle&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hoanngocle" />
 
 ![](https://komarev.com/ghpvc/?username=hoanngocle&label=Profile%20Views&color=0e75b6&style=flat)
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/winter-is-coming.svg"/>
+  <img src=""/>
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </div>
